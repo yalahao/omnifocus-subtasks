@@ -1,0 +1,3 @@
+This is a script for OmniFocus 2 to create a series of subtasks like "Read textbook 1/5", "Read textbook 2/5"...
+
+By default, all subtasks are created with the context "Focus". If you want to change that, modify the first line of the script.
